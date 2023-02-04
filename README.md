@@ -1,2 +1,5 @@
 # personal
 File Drop
+
+w-emily SHA256:  978b44beeca65125e7e8ea916f499affea5b79c4327c4d3df4bca8a7a98c5b94
+w-joe   SHA256:  1999a9d6772efc25e77c16f952aca2b839c401f67e4d0c252602917798cbe873
